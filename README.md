@@ -10,18 +10,18 @@ The underlying algorithm uses content-based filtering, relying on a rich movie d
 
 ## Fonctionnality
 CineMatch.io is centered around a content-based filtering approach, with a particular focus on natural language processing (NLP) to provide a unique and accurate movie recommendation experience. </br>
-Here are the main features our app offers:
+Here are the main features the app offers:
 
-- **Movie Search by Title**: Enter the title of a movie you like in our intuitive search bar. Our system uses this starting point to find and recommend similar films.
+- **Movie Search by Title**: Enter the title of a movie you like in the search bar. The system uses this starting point to find and recommend similar films.
 
-- **Recommendations Based on NLP**: Our algorithm thoroughly analyzes movie synopsis, reviews, and descriptions to find films that match not only by genre, but also by theme, mood, and narration. </br>
+- **Recommendations Based on NLP**: The algorithm thoroughly analyzes movie synopsis, reviews, and descriptions to find films that match not only by genre, but also by theme, mood, and narration. </br>
 This approach ensures that the recommendations are aligned with the subtle nuances of your cinematic preferences.
 
-- **Viewing Six Similar Movies**: For each search, our system displays six movies that are very similar to your initial choice. This allows you to discover movies that are closely aligned with your tastes and preferences.
+- **Viewing Six Similar Movies**: For each search, the system displays six movies that are very similar to your initial choice. This allows you to discover movies that are closely aligned with your tastes and preferences.
 
-- **Simplified User Experience**: Our app is designed to be simple and straightforward. No distractions or unnecessary complications - just you, your starting movie, and a set of relevant recommendations.
+- **Simplified User Experience**: The app is designed to be simple and straightforward. No distractions or unnecessary complications - just you, your starting movie, and a set of relevant recommendations.
 
-- **Continuous Database Update**: Our movie database is regularly updated to include new releases and classics, ensuring our recommendations remain current and diverse.
+- **Continuous Database Update**: The movie database is regularly updated to include new releases and classics, ensuring our recommendations remain current and diverse.
 
 
 ## How to use the app
@@ -40,7 +40,6 @@ CineMatch.io is designed to be intuitive and user-friendly. Here's how you can g
 
 Enjoy exploring the world of movies with CineMatch.io!
 
-
 ## Used technologies
 Below is a list of the key technologies used in the development of this application:
 
@@ -50,7 +49,6 @@ Below is a list of the key technologies used in the development of this applicat
 - **Natural Language Processing (NLP)**
 - **Scikit-learn**
 - **Git & GitHub**
-- **Streamlit Sharing**
 
 This technology stack was chosen to create an efficient, robust, and scalable solution for movie recommendations, ensuring a seamless experience for our users.
 
